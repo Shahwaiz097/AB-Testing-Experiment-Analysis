@@ -1,0 +1,2 @@
+metric,control_rate,test_rate,absolute_difference_test_minus_control,relative_lift,z_statistic,p_value,confidence_interval_low,confidence_interval_high
+purchase_conversion_rate,0.09825473257162855,0.08640658672708183,-0.011848145844546715,-0.12058600674435009,-11.8386745814439,2.4631475628426749e-32,-0.013818282416173123,-0.009878009272920306
