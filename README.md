@@ -48,22 +48,6 @@ Each file includes spend, impressions, reach, website clicks, searches, view con
 purchase conversion rate = purchases / website clicks
 ```
 
-## What Was Added
-
-This project includes the key missing parts needed for a proper A/B testing portfolio project:
-
-- Data validation
-- Missing-value report
-- Clean combined dataset
-- Purchase conversion rate
-- Two-proportion z-test
-- Confidence interval
-- Power analysis
-- Guardrail metrics such as cost per purchase and click-through rate
-- Visualizations
-- SQL metrics query
-- Business decision memo
-
 ## Main Results
 
 | Group | Purchase Conversion Rate | Cost per Purchase |
